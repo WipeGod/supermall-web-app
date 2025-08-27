@@ -2,6 +2,7 @@
 
 A comprehensive web application that allows merchants to advertise and sell their products at developing counters, enabling rural towns to sell their commodities to the rest of the globe.
 
+## [**TRY IT NOW**](https://spmall.netlify.app/)
 ## 🚀 Features
 
 ### User Features
